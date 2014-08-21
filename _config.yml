@@ -10,5 +10,8 @@ url: "http://launchacademy.com" # the base hostname & protocol for your site
 twitter_username: LaunchAcademy_
 github_username:  LaunchAcademy
 
+# Outputting
+permalink: none
+
 # Build settings
 markdown: kramdown
